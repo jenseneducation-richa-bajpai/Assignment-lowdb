@@ -1,0 +1,58 @@
+{
+  "products": [
+    {},
+    {
+      "name": "pen",
+      "price": "10kr",
+      "image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "name": "laptop",
+      "price": "5000kr",
+      "image": "https://placeimg.com/640/480/any?t=1579701949134"
+    },
+    {
+      "name": "Tablet",
+      "price": "5000kr",
+      "image": "https://placeimg.com/640/480/any?t=1579701982762"
+    },
+    {
+      "name": "Sunglasses",
+      "price": "1000kr",
+      "image": "https://placeimg.com/640/480/any?t=1579702073713"
+    },
+    {
+      "name": "Glassjar",
+      "price": "500kr",
+      "image": "https://placeimg.com/640/480/any?t=1579702144416"
+    },
+    {
+      "name": "Apple ipod",
+      "price": "2500 kr",
+      "image": "https://placeimg.com/640/480/any?t=1579977195388"
+    },
+    {
+      "name": "bag",
+      "price": "400 kr ",
+      "image": "https://placeimg.com/640/480/any?t=1579702073713"
+    }
+  ],
+  "shoppingcart": [
+    {},
+    {
+      "name": "Sunglasses",
+      "price": "1000kr",
+      "image": "https://placeimg.com/640/480/any?t=1579702073713"
+    },
+    {
+      "name": "Apple ipod",
+      "price": "2500 kr",
+      "image": "https://placeimg.com/640/480/any?t=1579977195388"
+    },
+    {
+      "name": "bag",
+      "price": "400 kr ",
+      "image": "https://placeimg.com/640/480/any?t=1579702073713"
+    }
+  ]
+}
